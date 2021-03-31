@@ -1,4 +1,4 @@
-Hola, hoy 30 de marzo:
+Hola estoy
 
 haciendo un texto plano
 
@@ -7,4 +7,4 @@ para el curso de git
 
 :3
 
-hare que sea para bien, con mucha disciplina.
+hare que sea para bien. sentencia al final
