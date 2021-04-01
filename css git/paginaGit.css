@@ -1,6 +1,10 @@
 body
 {
+<<<<<<< HEAD
     color: greenyellow;
+=======
+    color: blueviolet;
+>>>>>>> cabecera
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
 }
